@@ -1,0 +1,13 @@
+STARTTIMING: loop-instrumentation
+|	STARTTIMING: doSomeStuff()
+|	STOPTIMING: doSomeStuff() 2ms
+|	STARTTIMING: doSomeStuff()
+|	STOPTIMING: doSomeStuff() 0ms
+|	STARTTIMING: doSomeStuff()
+|	STOPTIMING: doSomeStuff() 0ms
+|	STARTTIMING: doSomeStuff()
+|	STOPTIMING: doSomeStuff() 0ms
+|	STARTTIMING: doSomeStuff()
+|	STOPTIMING: doSomeStuff() 0ms
+STOPTIMING: loop-instrumentation 11ms
+TOTAL TIME: 11ms

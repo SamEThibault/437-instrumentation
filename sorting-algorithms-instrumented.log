@@ -1,0 +1,13 @@
+STARTTIMING: populateArray()
+STOPTIMING: populateArray() 3ms
+STARTTIMING: bubbleSort()
+|	STARTTIMING: bubbleSort::sortInstrumented()
+|	STOPTIMING: bubbleSort::sortInstrumented() 9063ms
+STOPTIMING: bubbleSort() 9063ms
+STARTTIMING: populateArray()
+STOPTIMING: populateArray() 0ms
+STARTTIMING: quickSort()
+|	STARTTIMING: quickSort::sortInstrumented()
+|	STOPTIMING: quickSort::sortInstrumented() 10ms
+STOPTIMING: quickSort() 11ms
+TOTAL TIME: 9077ms

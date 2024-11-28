@@ -1,0 +1,3 @@
+STARTTIMING: loop-no-instrumentation
+STOPTIMING: loop-no-instrumentation 4ms
+TOTAL TIME: 4ms

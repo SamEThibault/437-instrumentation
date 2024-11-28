@@ -1,0 +1,9 @@
+STARTTIMING: populateArray()
+STOPTIMING: populateArray() 2ms
+STARTTIMING: bubbleSort()
+STOPTIMING: bubbleSort() 9095ms
+STARTTIMING: populateArray()
+STOPTIMING: populateArray() 0ms
+STARTTIMING: quickSort()
+STOPTIMING: quickSort() 8ms
+TOTAL TIME: 9105ms

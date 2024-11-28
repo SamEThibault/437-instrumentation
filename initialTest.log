@@ -1,0 +1,16 @@
+STARTTIMING: main
+|	STARTTIMING: loop
+|	|	STARTTIMING: doSomeStuff()
+|	|	STOPTIMING: doSomeStuff() 1ms
+|	|	STARTTIMING: doSomeStuff()
+|	|	STOPTIMING: doSomeStuff() 0ms
+|	|	STARTTIMING: doSomeStuff()
+|	|	STOPTIMING: doSomeStuff() 0ms
+|	|	STARTTIMING: doSomeStuff()
+|	|	STOPTIMING: doSomeStuff() 0ms
+|	|	STARTTIMING: doSomeStuff()
+|	|	STOPTIMING: doSomeStuff() 0ms
+|	STOPTIMING: loop 9ms
+|	COMMENT: Hello, this is a comment
+STOPTIMING: main 9ms
+TOTAL TIME: 9ms
